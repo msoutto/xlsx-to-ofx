@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/msoutto/xlsx-to-ofx/issues"
   },
-  "homepage": "https://github.com/msoutto/xlsx-to-ofx#readme"
+  "homepage": "https://github.com/msoutto/xlsx-to-ofx#readme",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
 }
