@@ -1,0 +1,23 @@
+{
+  "name": "xlsx-to-ofx",
+  "version": "1.0.0",
+  "description": "XLSX to OFX converter for financial statements files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msoutto/xlsx-to-ofx.git"
+  },
+  "keywords": [
+    "xlsx",
+    "ofx"
+  ],
+  "author": "https://github.com/msoutto",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/msoutto/xlsx-to-ofx/issues"
+  },
+  "homepage": "https://github.com/msoutto/xlsx-to-ofx#readme"
+}
